@@ -1,0 +1,55 @@
+.signup-form,
+.login-form {
+  margin-bottom: 10%;
+}
+
+.form-container {
+  margin-top: 3%;
+  display: inline-block;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.egg-image {
+  width: 100px;
+}
+
+.image-container {
+  display: inline-block;
+}
+
+input {
+  margin-left: 5px;
+  font-size: large;
+}
+
+label {
+  display: block;
+}
+
+.signup-button,
+.login-button {
+  display: inline;
+  float: right;
+  margin-right: 15px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 8px;
+  background: #8b8000;
+  font-size: 15px;
+  height: 40px;
+  padding: 0 11px;
+  text-align: center;
+  width: 40%;
+  font-weight: bold;
+  color: beige;
+}
+
+.signup-button:hover {
+  background: #8b8000;
+}
+
+.signup-link {
+  font-weight: bold;
+  color: #8b8000;
+}
