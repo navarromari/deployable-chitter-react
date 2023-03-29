@@ -1,11 +1,12 @@
 <h1 align="center">Chitter</h1>
 <h3 align="center">React web application to share short messages developed as part of my Software Engineering training with Digital Futures</h3>
 <h3 align="center"><a href="https://sunny-bavarois-5ac208.netlify.app/">sunny-bavarois-5ac208.netlify.app</a></h3>
+<p align="center">(Data may take a little while to load.)</p>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/7fa40d644bf792828dabdaaf6d6bef84/62aa03269e54bcaa-60/s640x960/37265ef1286be4aaf3b3df920e44ce98fa33be89.pnj" height="360" alt="homeprint" />
 </p>
-<p>Data may take a little while to load.</p>
+
 
 
 <h3 align="center">The application works with a simple Login system validated in the backend Express server</h3>
